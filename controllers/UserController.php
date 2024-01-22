@@ -1,5 +1,7 @@
 <?php
 
+use core\App;
+
 class UserController
 {
     public function index(){
